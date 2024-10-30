@@ -7,8 +7,13 @@
   +37525-694-00-00  Minsk, Belarus  
   [Linkedin](https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D1%85%D0%B0%D0%B4%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87-754913312/).
 
-  #### EDUCATION  
+  #### CAREER OBJECTIVE
+  Aspiring junior front-end web developer excited to contribute my skills  
+  and enthusiasm to my future job. Committed to stay current with the  
+  latest web development practices and offering responsive and engaging  
+  web solutions for company's diverse clientele.
 
+  #### EDUCATION  
 Minsk College of Entrepreneurship - technician programmer  
 2022-2024  
 It-Academy courses  
