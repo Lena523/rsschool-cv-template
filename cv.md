@@ -3,11 +3,11 @@
    # Elena Khadasevich
   **Junior Front-End Developer**
   
-  * camatsu90@mail.ru 1  
- * +37525-694-00-00  Minsk, Belarus 2 
+  * camatsu90@mail.ru   
+ * +37525-694-00-00  Minsk, Belarus  
  * [Linkedin](https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D1%85%D0%B0%D0%B4%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87-754913312/). 3
- * [Github](https://github.com/Lena523/). 4
- * Discord: lena07193 5
+ * [Github](https://github.com/Lena523/). 
+ * Discord: lena07193 
 
   #### CAREER OBJECTIVE
   Aspiring junior front-end web developer excited to contribute my skills  
@@ -26,13 +26,13 @@ Development of web applications in JavaScript
 RS School  
 2024-...  
 #### SKILLS
-* HTML; 1
-* CSS; 2
-* Java Script; 3
-* Git; 4
-* SASS; 5
-*  Webpack; 6
-*  MySQL; 7  
+* HTML; 
+* CSS; 
+* Java Script; 
+* Git; 
+* SASS; 
+*  Webpack; 
+*  MySQL; 
 #### CODE EXAMPLE
 ```
 document.getElementById('my_links').addEventListener('mouseout',(event)=>{
@@ -44,7 +44,7 @@ document.getElementById('my_links').addEventListener('mouseout',(event)=>{
   
 })
 ```
- [Casino](https://lena523.github.io/casino/).
+ [My project Casino](https://lena523.github.io/casino/).
 #### ENGLISH
 C1
   
