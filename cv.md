@@ -3,9 +3,10 @@
    # Elena Khadasevich
   **Junior Front-End Developer**
   
-  * camatsu90@mail.ru   
- * +37525-694-00-00  Minsk, Belarus  
- * [Linkedin](https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D1%85%D0%B0%D0%B4%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87-754913312/). 3
+ * camatsu90@mail.ru   
+ * +37525-694-00-00
+ * Minsk, Belarus  
+ * [Linkedin](https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D1%85%D0%B0%D0%B4%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87-754913312/). 
  * [Github](https://github.com/Lena523/). 
  * Discord: lena07193 
 
