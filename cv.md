@@ -10,7 +10,7 @@
  * [Github](https://github.com/Lena523/). 
  * Discord: lena07193 
 
-  #### CAREER OBJECTIVE
+  --- #### CAREER OBJECTIVE
   Aspiring junior front-end web developer excited to contribute my skills  
   and enthusiasm to my future job. Committed to stay current with the  
   latest web development practices and offering responsive and engaging  
